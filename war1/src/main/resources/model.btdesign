@@ -1,0 +1,8 @@
+Application MyWebApp {
+    basePackage=war
+
+    Module mywebmodule {
+
+	}
+
+}
